@@ -1,4 +1,4 @@
-## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
+## Experiment No-01-INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
 ## DATE :16-02-2024
 ## NAME : ASHWIN AKASH M																			             
 ## ROLLNUMBER :212223230024
@@ -113,3 +113,5 @@ void loop()
 
 ![ROBOM2](https://github.com/AshwinAkash24/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/144979248/2e1cc85d-c7d9-4640-a3a8-31514e8e9e9e)
 
+## Result:
+Hence,interfacing digital input sensor with ardiuo push button is successfully simulated.
